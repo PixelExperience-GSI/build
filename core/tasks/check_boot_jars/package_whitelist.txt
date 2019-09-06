@@ -257,3 +257,6 @@ org\.ifaa\.android\.manager.*
 ###################################################
 # Touch HAL
 vendor.lineage.touch.*
+
+vendor\.samsung\.hardware\.radio\.V1_2
+vendor\.mediatek\.hardware\.radio\.V2_0
